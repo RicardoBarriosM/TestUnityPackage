@@ -1,6 +1,6 @@
 {
   "name": "com.ricardo.testpackage",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "displayName": "Test Package",
   "description": "This is a test Package",
   "unity": "2021.3",
